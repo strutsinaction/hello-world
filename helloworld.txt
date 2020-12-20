@@ -3,3 +3,4 @@ Added this new line.
 My new feature.
 And another line here.
 My second feature to try out.
+Added my third feature line.
