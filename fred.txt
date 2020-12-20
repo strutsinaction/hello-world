@@ -1,2 +1,3 @@
 My new file.
 Forgot this line.
+Added my linux feature.
