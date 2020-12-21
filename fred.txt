@@ -4,3 +4,4 @@ Let's insert a new feature here.
 Added my linux feature.
 My new feature.
 Adding a new Fred feature.
+Test the config editor.
