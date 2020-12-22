@@ -7,3 +7,4 @@ Adding a new Fred feature.
 Test the config editor.
 My Freddy update.
 Test main 1.
+Now working on a bug fix release.
