@@ -6,3 +6,4 @@ A further new feature line.
 Let's try this with Billy.
 My Tuesday edit.
 Test main 0.
+Test bug fix in branch r0_1 for release 0.1.2
