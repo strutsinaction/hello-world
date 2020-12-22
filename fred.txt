@@ -8,3 +8,4 @@ Test the config editor.
 My Freddy update.
 Test main 1.
 Now working on a bug fix release.
+Bug fix in r0_1 for release 0.1.3.
