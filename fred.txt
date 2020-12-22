@@ -5,3 +5,4 @@ Added my linux feature.
 My new feature.
 Adding a new Fred feature.
 Test the config editor.
+My Freddy update.
